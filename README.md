@@ -4,7 +4,7 @@ A c++ json document repair library.
 
 A robust JSON repair library for c++ — fixes malformed, truncated, or otherwise invalid JSON strings and converts them into valid JSON.
 
-This is a faithful port of the original [josdejong/jsonrepair](https://github.com/josdejong/jsonrepair) library (written in JavaScript/Python/...) to <目标语言>. All core functionality is preserved.
+This is a faithful port of the original [josdejong/jsonrepair](https://github.com/josdejong/jsonrepair) library (written in JavaScript/Python/...) to c++. All core functionality is preserved.
 
 The library can automatically fix common JSON issues, including:
 
